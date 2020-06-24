@@ -63,6 +63,7 @@ Note:
 ### 2.2 Continuos Bag-of-Words Model
 
 The Continuous Bag-of-Words (CBOW) is another similar model for learning word vectors. It predicts the target word (i.e. “swing”) from source context words (i.e., “sentence should the sword”).
+
 ![Skip-Gram Model](cbow.png)
 
 Note: 
