@@ -31,6 +31,6 @@
 
 |  LSTM  |  FastText  |
 |  ----  |  ----  |
-| ![lstm](.\results\lstm_training.png)  | ![fasttext](results\fasttext_training.png) |
+| ![lstm](./results/lstm_training.png)  | ![fasttext](./results/fasttext_training.png) |
 
 本次结果说明：在得到相同的训练成果（模型预测准确率）的情况下，FastText模型训练用时约1s，而基于LSTM的模型则需约24min，因此用FastText代替LSTM进行训练可对模型的训练用时有很大提升。
